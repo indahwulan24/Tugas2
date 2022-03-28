@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Tugas2IndahWulandari</string>
+    <string name="username">Username</string>
+    <string name="Name">name</string>
+    <string name="name">Name</string>
+    <string name="email_id">Email ID</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="enter_mobile">Enter Mobile</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="register">Register</string>
+    <string name="phone">Phone</string>
+    <string name="area">Area</string>
+    <string name="address">Address</string>
+    <string name="city">City</string>
+    <string name="state">State</string>
+    <string name="zip">Zip</string>
+    <string name="email">Email</string>
+    <string name="birthday">Birthday</string>
+    <string name="registration">Registration</string>
+    <string name="contacts">Contacts</string>
+</resources>
